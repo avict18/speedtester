@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Hey there, Its me again was bored of my slow internet speed so decided to make this so that I can monitor my internet speed</h4>
+<h4 align="center">Introducing the next gen command line tool to monitor your internet speed</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/py/pip"><img src="https://badge.fury.io/py/pip.svg" alt="PyPI version" height="18"></a>
