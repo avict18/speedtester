@@ -36,7 +36,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [speedtest-cli](https://www.speedtest.net/de/apps/cli) and [python](https://python.org) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [python](https://python.org) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
