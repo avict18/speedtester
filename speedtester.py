@@ -52,4 +52,4 @@ if __name__ == "__main__":
     while True:
         speed_test()
         serial_number += 1
-        time.sleep(60)
+        time.sleep(300)
